@@ -27,4 +27,6 @@ Minha trajetória é marcada pela transição da precisão técnica da eletrôni
 
 ### 📫 Vamos nos conectar?
 [LinkedIn](https://www.linkedin.com/in/manuela-lobo-b5b0182b7)
+
+
 *"Focada em transformar processos complexos em soluções organizadas e eficientes."*
