@@ -10,7 +10,7 @@ Minha trajetória é marcada pela transição da precisão técnica da eletrôni
 - **Versatilidade:** Experiência em rotinas administrativas e indústria no setor de alimentos, desenvolvendo visão de prazos, custos e atendimento ao cliente.
 
 ### 🚀 Projetos em Destaque
-* **[SmartWheels (AACD)](LINK_DO_SEU_REPO):** Planejamento de Sprints, Matriz MoSCoW e unificação de APIs para dispositivo IoT de acessibilidade.
+* **[SmartWheels (AACD)]([LINK_DO_SEU_REPO]https://github.com/eumanuelalobo/smartwheels-iot-aacd):** Planejamento de Sprints, Matriz MoSCoW e unificação de APIs para dispositivo IoT de acessibilidade.
 * **[Governança de APIs](LINK_DO_SEU_REPO):** Estudo aprofundado sobre Microsserviços, padrões REST/GraphQL e testes de contrato (Pact).
 * **[FastAPI Backend](LINK_DO_SEU_REPO):** Implementação técnica de API com foco em ambientes isolados e documentação automatizada.
 
