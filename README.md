@@ -10,9 +10,10 @@ Minha trajetória é marcada pela transição da precisão técnica da eletrôni
 - **Versatilidade:** Experiência em rotinas administrativas e indústria no setor de alimentos, desenvolvendo visão de prazos, custos e atendimento ao cliente.
 
 ### 🚀 Projetos em Destaque
-* **[SmartWheels (AACD)] [(https://github.com/eumanuelalobo/smartwheels-iot-aacd)]:** Planejamento de Sprints, Matriz MoSCoW e unificação de APIs para dispositivo IoT de acessibilidade.
-* **[Governança de APIs] [(https://github.com/eumanuelalobo/api-governance-microservices)]:** Estudo aprofundado sobre Microsserviços, padrões REST/GraphQL e testes de contrato (Pact).
-* **[FastAPI Backend] [(https://github.com/eumanuelalobo/fastapi-technical-report)]:** Implementação técnica de API com foco em ambientes isolados e documentação automatizada.
+* **[SmartWheels (AACD)](https://github.com/eumanuelalobo/smartwheels-iot-aacd):** Planejamento de Sprints, Matriz MoSCoW e unificação de APIs para dispositivo IoT de acessibilidade.
+* **[Governança de APIs](https://github.com/eumanuelalobo/api-governance-microservices):** Estudo aprofundado sobre Microsserviços, padrões REST/GraphQL e testes de contrato (Pact).
+* **[FastAPI Backend](https://github.com/eumanuelalobo/fastapi-technical-report):** Implementação técnica de API com foco em ambientes isolados e documentação automatizada.
+* **[Bingo Java System](https://github.com/eumanuelalobo/java-bingo-observer-system):** Sistema de sorteio utilizando o padrão de projeto Observer e interface Java Swing.
 
 ### 🛠️ Toolbox (Habilidades)
 - **Gestão:** Metodologias Ágeis (Lean/Scrum), Planejamento de Sprints, Levantamento de Requisitos.
