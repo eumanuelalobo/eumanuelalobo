@@ -7,7 +7,7 @@ Minha trajetória é marcada pela transição da precisão técnica da eletrôni
 ### 💼 Perfil Profissional
 - **Gestão & Análise:** Atualmente liderando o planejamento técnico e governança de dados do projeto **SmartWheels** em parceria com a **AACD**.
 - **Bagagem Técnica:** Experiência anterior no setor de eletrônica (montagem e precisão), o que consolidou meu rigor técnico e atenção aos detalhes.
-- **Versatilidade:** Experiência em rotinas administrativas e empreendedorismo no setor de alimentos, desenvolvendo visão de prazos, custos e atendimento ao cliente.
+- **Versatilidade:** Experiência em rotinas administrativas e indústria no setor de alimentos, desenvolvendo visão de prazos, custos e atendimento ao cliente.
 
 ### 🚀 Projetos em Destaque
 * **[SmartWheels (AACD)](LINK_DO_SEU_REPO):** Planejamento de Sprints, Matriz MoSCoW e unificação de APIs para dispositivo IoT de acessibilidade.
